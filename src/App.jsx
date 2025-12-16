@@ -1,10 +1,10 @@
 import React from 'react';
-import BasicCSS from './components/basicCSS';
-import CSSModules from './components/cssModules';
-import StyledComponents from './components/styledComponents';
-import TailwindCSS from './components/tailwindCSS';
-import ConditionalStyling from './components/conditionalStyling';
-import MaterialUI from './components/materialUI';
+import BasicCSS from './components/basicCSS.jsx';
+import CSSModules from './components/cssModules.jsx';
+import StyledComponents from './components/styledComponents.jsx';
+import TailwindCSS from './components/tailwindCSS.jsx';
+import ConditionalStyling from './components/conditionalStyling.jsx';
+import MaterialUI from './components/materialUI.jsx';
 import './App.css';
 import { Typography } from '@mui/material';
 
