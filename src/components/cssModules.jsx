@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './CSSModules.module.css';
+import styles from './CSSModules.css';
 
 function CSSModules() {
   return (
